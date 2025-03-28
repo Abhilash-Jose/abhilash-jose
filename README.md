@@ -20,10 +20,12 @@ Curiosity drives me, and I’m always excited to connect with like-minded people
 
 <div style="display: flex; gap: 10px; align-items: center;">  
     <div style="border:1px solid #ccc; padding:10px; border-radius:5px; background:#f8f8f8;">  
-        <img src="[Your Thumbnail Link]" alt="Challenge Thumbnail" style="width:150px; height:auto; border-radius:5px;">  
+        <a href="https://app.powerbi.com/view?r=eyJrIjoiMTQyYTNhYWUtNjQ2Yi00ZjhiLTg0YmItMWU2MDc1MDQ5MWFkIiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9" target="_blank">  
+            <img src="[Your Thumbnail Link]" alt="Challenge Thumbnail" style="width:150px; height:auto; border-radius:5px;">  
+        </a>  
     </div>  
     <div style="border:1px solid #ccc; padding:10px; border-radius:5px; background:#f8f8f8; text-align:center;">  
-        <a href="[Your Visualization Link]" style="text-decoration:none; color:black;">  
+        <a href="https://app.powerbi.com/view?r=eyJrIjoiMTQyYTNhYWUtNjQ2Yi00ZjhiLTg0YmItMWU2MDc1MDQ5MWFkIiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9" style="text-decoration:none; color:black;">  
             <strong>Challenge Name</strong><br>  
             Month & Year<br>  
             Challenge Group  
