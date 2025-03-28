@@ -6,7 +6,7 @@ Curiosity drives me, and I’m always excited to connect with like-minded people
 
 📌 **Let’s connect:**  [LinkedIn](https://www.linkedin.com/in/abhilashjoseofficial/) |  [Website](http://abhilashjose.com/)  
 
-Check out my work below! ⬇️  
+**Check out my work below! ⬇️**
 
 ### 📍 Technical Skills 
 * 📊 MS Excel – Proficient in Excel functions, data cleaning, Pivot Tables & Charts, and MIS Dashboarding.
