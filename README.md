@@ -34,5 +34,3 @@ Curiosity drives me, and I’m always excited to connect with like-minded people
 ## **Excel**  
 
 **Microsoft Excel**  
-
-my second proejct is not shoing
