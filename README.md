@@ -1,4 +1,4 @@
-**Hey Guys!!** 👋 Thanks for stopping by!  
+# **Hey Guys!!** 👋 Thanks for stopping by!  
 
 I’m passionate about **exploring, learning, and sharing knowledge** in data science. I love diving deep into problems, uncovering insights, and constantly challenging myself to grow. Teaching and relearning are just as important to me as learning—because the journey never truly ends!  
 
@@ -6,7 +6,7 @@ Curiosity drives me, and I’m always excited to connect with like-minded people
 
 📌 **Let’s connect:**  [LinkedIn](https://www.linkedin.com/in/abhilashjoseofficial/) |  [Website](http://abhilashjose.com/)  
 
-💡 Check out my work below! ⬇️  
+Check out my work below! ⬇️  
 
 ## **Tools I Work With**  
 
