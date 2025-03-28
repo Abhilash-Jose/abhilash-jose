@@ -19,7 +19,7 @@ Curiosity drives me, and I’m always excited to connect with like-minded people
 <div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
     <!-- Project 1 -->
     <div style="border: 2px solid #ddd; padding: 15px; border-radius: 15px; background: #f8f8f8; width: 320px; text-align: center; box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);">
-        <img src="https://raw.githubusercontent.com/Abhilash-Jose/files/7eb6e3d6f7662c79a658dcfceba3988504dbb6ca/Crime%20Data%20Analysis.jpg?token=GHSAT0AAAAAADBDLUYQMASS7ERG5SN4POZ4Z7GJFCA" alt="Crime Data Analysis" style="width: 100%; height: auto; border-radius: 12px;">
+        <img src="https://raw.githubusercontent.com/Abhilash-Jose/files/refs/heads/main/Crime%20Data%20Analysis.jpg?token=GHSAT0AAAAAADBDLUYQLD2SZUNCQDBZZFZ4Z7GMHOQ" alt="Crime Data Analysis" style="width: 100%; height: auto; border-radius: 12px;">
         <h3>Crime Data Analysis</h3>
         <p><strong>Challenge Team:</strong> ZoomChart and Onyx Data</p>
         <p><strong>Month:</strong> March 2025</p>
