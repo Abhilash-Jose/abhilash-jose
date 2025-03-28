@@ -25,7 +25,7 @@ Curiosity drives me, and I’m always excited to connect with like-minded people
 <div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
     <!-- Project 1 -->
     <div style="border: 2px solid #ddd; padding: 15px; border-radius: 15px; background: #f8f8f8; width: 320px; text-align: center; box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);">
-        <img src="https://raw.githubusercontent.com/Abhilash-Jose/Visualizations_Images/refs/heads/main/Crime%20Data%20Analysis.jpg" alt="Crime Data Analysis" style="width: 30%; height: auto; border-radius: 12px;">
+        <img src="https://raw.githubusercontent.com/Abhilash-Jose/Visualizations_Images/refs/heads/main/Crime%20Data%20Analysis.jpg" alt="Crime Data Analysis" style="width: 50; height: auto; border-radius: 12px;">
         <h4>Crime Data Analysis</h4>
         <p><strong>Challenge Team:</strong> ZoomChart and Onyx Data</p>
         <p><strong>Month:</strong> March 2025</p>
@@ -37,7 +37,7 @@ Curiosity drives me, and I’m always excited to connect with like-minded people
 <div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
     <!-- Project 2 -->
     <div style="border: 2px solid #ddd; padding: 15px; border-radius: 15px; background: #f8f8f8; width: 320px; text-align: center; box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);">
-        <img src="https://raw.githubusercontent.com/Abhilash-Jose/Visualizations_Images/refs/heads/main/Transportation%20Logistics%20Tracking.jpg" alt="Transportation and Logistics" style="width: 30%; height: auto; border-radius: 12px;">
+        <img src="https://raw.githubusercontent.com/Abhilash-Jose/Visualizations_Images/refs/heads/main/Transportation%20Logistics%20Tracking.jpg" alt="Transportation and Logistics" style="width: 50; height: auto; border-radius: 12px;">
         <h4>Transportation and Logisics Analysis</h4>
         <p><strong>Challenge Team:</strong> ZoomChart and Onyx Data</p>
         <p><strong>Month:</strong> March 2025</p>
