@@ -1,4 +1,4 @@
-# **Hey Guys!!** 👋 Thanks for stopping by!  
+# **Hey Guys!!** 👋 Thanks for Stopping By!  
 
 I’m passionate about **exploring, learning, and sharing knowledge** in data science. I love diving deep into problems, uncovering insights, and constantly challenging myself to grow. Teaching and relearning are just as important to me as learning—because the journey never truly ends!  
 
