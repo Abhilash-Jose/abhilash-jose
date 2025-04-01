@@ -25,6 +25,21 @@ Curiosity drives me, and I’m always excited to connect with like-minded people
 <div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
     <!-- Project 1 -->
     <div style="border: 2px solid #ddd; padding: 15px; border-radius: 15px; background: #f8f8f8; width: 320px; text-align: center; box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);">
+        <img src="https://raw.githubusercontent.com/Abhilash-Jose/Visualizations_Images/refs/heads/main/Pixar%20Film%20Analysis%20-%20All%20Reports%20-%20Challenge%20by%20Maven%20Analytics.png" alt="Crime Data Analysis" style="width: 70%; height: auto; border-radius: 12px;">
+        <h4>Pixar Film Analysis</h4>
+        <p><strong>Challenge Team:</strong> Maven Analytics</p>
+        <p><strong>Month:</strong> March 2025</p>
+        <a href="https://mavenanalytics.io/project/29866" target="_blank" style="display: inline-block; padding: 10px 15px; background: #0073e6; color: white; text-decoration: none; border-radius: 8px; margin-top: 10px;">Click Here to View Project</a>
+    </div>
+ 
+<hr style="width: 100%; border: 1px solid #ddd; margin: 20px 0;">
+ 
+
+ <!-- Project Seperator-->
+
+<div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
+    <!-- Project 1 -->
+    <div style="border: 2px solid #ddd; padding: 15px; border-radius: 15px; background: #f8f8f8; width: 320px; text-align: center; box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);">
         <img src="https://raw.githubusercontent.com/Abhilash-Jose/Visualizations_Images/refs/heads/main/Crime%20Data%20Analysis.jpg" alt="Crime Data Analysis" style="width: 70%; height: auto; border-radius: 12px;">
         <h4>Crime Data Analysis</h4>
         <p><strong>Challenge Team:</strong> ZoomChart and Onyx Data</p>
@@ -33,6 +48,8 @@ Curiosity drives me, and I’m always excited to connect with like-minded people
     </div>
  
 <hr style="width: 100%; border: 1px solid #ddd; margin: 20px 0;">
+
+ <!-- Project Seperator-->
  
 <div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
     <!-- Project 2 -->
