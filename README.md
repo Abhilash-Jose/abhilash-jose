@@ -11,7 +11,7 @@
 
 <div align="center">
 
-<img src="https://github.com/Abhilash-Jose/others/blob/a0489ab43ab379916b905c5bea1a06358dfc0547/FrontPageGitHub.jpg" width="100%"/>
+<img src="https://github.com/Abhilash-Jose/others/blob/c25ba2c4190776bb1126d2d0069ff2d9cea287f5/FrontPageGitHub.jpg" width="100%"/>
 
 </div>
 
